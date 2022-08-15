@@ -10,10 +10,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_smart_dialog: ^4.5.3+8   # dialog
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.0
-  flutter_smart_dialog: 4.5.3+8   # dialog
+
 flutter:
